@@ -1,0 +1,6 @@
+powerpc: Hav4e_y0u_ev8er_hEar1d_a3b$t_Po6w(PC? (incorrect)
+3AsYCrACk_M3: CR^CK=LOVE
+GOT_o: FLAG{This_is_got_overwrite}
+hellorop: FLAG{This_is_E4sy_ROP}
+Packet_Forensics: Network_forensics_Very_Easy!
+wh3r3_is_my_f14g: 1nC0{d0_you_kn0w_21p?}
